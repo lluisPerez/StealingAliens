@@ -1673,8 +1673,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AlienScript
   thrust: 1
   platform: {fileID: 679455708}
-  leftLimit: -0.446
-  rightLimit: 0.446
+  leftLimit: -0.22
+  rightLimit: 0.22
 --- !u!212 &923159847
 SpriteRenderer:
   serializedVersion: 2
@@ -2282,8 +2282,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::Alien2Script
   thrust: 5
   platform: {fileID: 679455708}
-  leftLimit: -0.446
-  rightLimit: 0.446
+  leftLimit: -0.22
+  rightLimit: 0.22
 --- !u!212 &1981414559
 SpriteRenderer:
   serializedVersion: 2
