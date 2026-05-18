@@ -1155,7 +1155,7 @@ GameObject:
   - component: {fileID: 679455709}
   m_Layer: 0
   m_Name: Square
-  m_TagString: Untagged
+  m_TagString: Player
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -1585,7 +1585,7 @@ Transform:
   m_GameObject: {fileID: 923159842}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.20194326, y: 0.072999984, z: 0}
+  m_LocalPosition: {x: -0.20194326, y: 0.03, z: 0}
   m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1764,7 +1764,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a416e2a31c7cfc24a91c9802d85c2df3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::CameraMovement
-  cameraSpeed: 4
+  cameraSpeed: 2
 --- !u!4 &1342149118
 Transform:
   m_ObjectHideFlags: 0
@@ -1820,7 +1820,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &1552162294
 Transform:
   m_ObjectHideFlags: 0
@@ -1830,8 +1830,8 @@ Transform:
   m_GameObject: {fileID: 1552162293}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.1}
-  m_LocalScale: {x: 16, y: 10, z: 1}
+  m_LocalPosition: {x: 0.0695, y: 0, z: 0.1}
+  m_LocalScale: {x: 21.326859, y: 10, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 1342149118}
@@ -2194,7 +2194,7 @@ Transform:
   m_GameObject: {fileID: 1981414554}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0.19805674, y: 0.073, z: 0}
+  m_LocalPosition: {x: 0.19805674, y: 0.03, z: 0}
   m_LocalScale: {x: 0.1, y: 0.1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
