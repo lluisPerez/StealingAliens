@@ -1,5 +1,6 @@
 using UnityEngine;
 
+[RequireComponent(typeof(Animator), typeof(SpriteRenderer))]
 public class Alien2Script : MonoBehaviour
 {
     public float thrust = 10f;
@@ -9,6 +10,15 @@ public class Alien2Script : MonoBehaviour
     // local limits on platform
     public float leftLimit = -0.446f;
     public float rightLimit = 0.446f;
+
+    private Animator animator;
+    private SpriteRenderer spriteRenderer;
+
+    void Awake()
+    {
+        animator = GetComponent<Animator>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+    }
 
     void FixedUpdate()
     {
@@ -21,10 +31,21 @@ public class Alien2Script : MonoBehaviour
         {
             move = -1f;
         }
-
-        if (Input.GetKey(KeyCode.RightArrow))
+        else if (Input.GetKey(KeyCode.RightArrow))
         {
             move = 1f;
+        }
+
+        // Flip sprite based on movement direction
+        if (spriteRenderer != null)
+        {
+            spriteRenderer.flipX = move < 0f;
+        }
+
+        // Play animation only when moving
+        if (animator != null)
+        {
+            animator.speed = Mathf.Abs(move) > 0f ? 1f : 0f;
         }
 
         // Clamp movement inside platform bounds
@@ -32,8 +53,7 @@ public class Alien2Script : MonoBehaviour
         {
             transform.Translate(-platform.right * thrust * Time.fixedDeltaTime, Space.World);
         }
-
-        if (move > 0f && localPos.x < rightLimit)
+        else if (move > 0f && localPos.x < rightLimit)
         {
             transform.Translate(platform.right * thrust * Time.fixedDeltaTime, Space.World);
         }

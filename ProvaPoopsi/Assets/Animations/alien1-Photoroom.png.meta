@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 9eaa4df2112b21e4a8c0d137463b5b59
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4674267665389422715
+    second: alien1-Photoroom_0
+  - first:
+      213: 6962905198269359038
+    second: alien1-Photoroom_1
+  - first:
+      213: 139205522140558292
+    second: alien1-Photoroom_2
+  - first:
+      213: -6642750546236350266
+    second: alien1-Photoroom_3
+  - first:
+      213: 3264739408343179729
+    second: alien1-Photoroom_4
+  - first:
+      213: -3888148505677169
+    second: alien1-Photoroom_5
+  - first:
+      213: 1167468875938565844
+    second: alien1-Photoroom_6
+  - first:
+      213: -255723214381918490
+    second: alien1-Photoroom_7
+  - first:
+      213: 7599078948513538517
+    second: alien1-Photoroom_8
+  - first:
+      213: 3258606459684809583
+    second: alien1-Photoroom_9
+  - first:
+      213: -4008724054311769660
+    second: alien1-Photoroom_10
+  - first:
+      213: -1082152383202176430
+    second: alien1-Photoroom_11
+  - first:
+      213: -5569274454774737216
+    second: alien1-Photoroom_12
+  - first:
+      213: -5268040329865066612
+    second: alien1-Photoroom_13
+  - first:
+      213: 2924411519740587802
+    second: alien1-Photoroom_14
+  - first:
+      213: -5518310794035179805
+    second: alien1-Photoroom_15
+  - first:
+      213: 3565411262527987911
+    second: alien1-Photoroom_16
+  - first:
+      213: -6527728831119371301
+    second: alien1-Photoroom_17
+  - first:
+      213: -2989609691332276773
+    second: alien1-Photoroom_18
+  - first:
+      213: 25723052655184456
+    second: alien1-Photoroom_19
+  - first:
+      213: 1925334471863136470
+    second: alien1-Photoroom_20
+  - first:
+      213: -7926477946506464022
+    second: alien1-Photoroom_21
+  - first:
+      213: 85983271153162429
+    second: alien1-Photoroom_22
+  - first:
+      213: 504097319651020297
+    second: alien1-Photoroom_23
+  - first:
+      213: 2003869128462662810
+    second: alien1-Photoroom_24
+  - first:
+      213: 5484742654053272566
+    second: alien1-Photoroom_25
+  - first:
+      213: -6714997999155726310
+    second: alien1-Photoroom_26
+  - first:
+      213: -3901658486134720402
+    second: alien1-Photoroom_27
+  - first:
+      213: -4751556830916591754
+    second: alien1-Photoroom_28
+  - first:
+      213: -1628788833477978392
+    second: alien1-Photoroom_29
+  - first:
+      213: 4754506455624909399
+    second: alien1-Photoroom_30
+  - first:
+      213: -5398261864375363034
+    second: alien1-Photoroom_31
+  - first:
+      213: -1772838450173710650
+    second: alien1-Photoroom_32
+  - first:
+      213: -8216125892940303641
+    second: alien1-Photoroom_33
+  - first:
+      213: -4573784819070045998
+    second: alien1-Photoroom_34
+  - first:
+      213: -8399806838360382019
+    second: alien1-Photoroom_35
+  - first:
+      213: 865349760637629957
+    second: alien1-Photoroom_36
+  - first:
+      213: 1662843803421776839
+    second: alien1-Photoroom_37
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alien1-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 589
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3e093036531a060800000000000000
+      internalID: 6962905198269359038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 589
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3f5f15fae8ee100800000000000000
+      internalID: 139205522140558292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 589
+        width: 93
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0ec00b29530d3a0800000000000000
+      internalID: -6642750546236350266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 589
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f2a122e41fbbf46afdbaeefc9368e4
+      internalID: 3264739408343179729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 488
+        width: 92
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dadacb03fa3e8045a3c6202dbe8735e
+      internalID: -3888148505677169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 488
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5184c5b81c1339b4291d940d26bb1db6
+      internalID: 1167468875938565844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 488
+        width: 94
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8118009fc975ec4d8a1b064a9a8210b
+      internalID: -255723214381918490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: alien1-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 488
+        width: 93
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7235703f111f1b4c8c078a4cae53b41
+      internalID: 7599078948513538517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e2a5a360e1525a4439c8638b634c391a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":4.0,"y":1.0},"gridSpriteSize":{"x":101.0,"y":700.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      alien1-Photoroom_0: -4674267665389422715
+      alien1-Photoroom_1: 6962905198269359038
+      alien1-Photoroom_10: -1094448222
+      alien1-Photoroom_11: -632566317
+      alien1-Photoroom_12: 39528055
+      alien1-Photoroom_13: -49595317
+      alien1-Photoroom_14: -1130252154
+      alien1-Photoroom_15: 1757042084
+      alien1-Photoroom_16: -984628886
+      alien1-Photoroom_17: 1306796950
+      alien1-Photoroom_18: 964936415
+      alien1-Photoroom_19: -2052569313
+      alien1-Photoroom_2: 139205522140558292
+      alien1-Photoroom_20: 173315619
+      alien1-Photoroom_21: -1419304825
+      alien1-Photoroom_22: -173405495
+      alien1-Photoroom_23: -545767362
+      alien1-Photoroom_24: 443848579
+      alien1-Photoroom_25: 1903064621
+      alien1-Photoroom_26: 7382192
+      alien1-Photoroom_27: -453171503
+      alien1-Photoroom_28: 1027617188
+      alien1-Photoroom_29: -449500787
+      alien1-Photoroom_3: -6642750546236350266
+      alien1-Photoroom_30: -212785099
+      alien1-Photoroom_31: -1940958927
+      alien1-Photoroom_32: 990880075
+      alien1-Photoroom_33: 236411761
+      alien1-Photoroom_34: -1094960844
+      alien1-Photoroom_35: 1175728918
+      alien1-Photoroom_36: -1232911353
+      alien1-Photoroom_37: -459566325
+      alien1-Photoroom_4: 3264739408343179729
+      alien1-Photoroom_5: -3888148505677169
+      alien1-Photoroom_6: 1167468875938565844
+      alien1-Photoroom_7: -255723214381918490
+      alien1-Photoroom_8: 7599078948513538517
+      alien1-Photoroom_9: 66194267
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
